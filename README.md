@@ -16,9 +16,9 @@ The archive is organized into two main sections:
     *   The foundational text that maps the six remaining Folds of the Veil (Cala, Sheer, Weave, Bare Plateau, Absent Center, Lux). It is the key to understanding the context of the fragments.
     *   File: `the-veil-cartography-of-the-surviving-shadows.md`
 
-2.  **Fragments**:
-    *   The chronological sequence of recovered transmissions, each linked to one of the six Folds and one of the alchemical elements (Water, Earth, Air, Fire, Salt, Gold).
-    *   Location: `fragments/`
+2.  **Archive #0**:
+    *   The first archive of recovered transmissions, each linked to one of the six Folds and one of the alchemical elements (Water, Earth, Air, Fire, Salt, Gold).
+    *   Location: `archive-0/`
 
 | File | Title | Fold | Element | Recall Code |
 | :--- | :--- | :--- | :--- | :--- |
